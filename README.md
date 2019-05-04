@@ -14,3 +14,6 @@ Files
 - raczhaypierrehumbert_frontiers_si_salience.pdfg proofs of final version
 - raczhaypierrehumbert_source.tex source of final submitted version
 - raczhaypierrehumbert_source.pdf compiled of final submitted version
+
+[![DOI](https://zenodo.org/badge/184551796.svg)](https://zenodo.org/badge/latestdoi/184551796)
+
